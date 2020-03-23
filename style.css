@@ -1,0 +1,44 @@
+
+.new{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: all;
+	
+
+}
+a:hover{
+	color: red;
+}
+a:active:{
+	color: green;
+}
+.links{
+word-spacing: 200px;
+background-color: lightcyan;
+}
+.container{
+	background-color: black;
+	padding: 2px 2px 2px 2px;
+
+
+}
+.box1{
+	background-color: grey;
+	width: 50%;
+	float: left;
+	color: white;
+}
+.box2{
+	background-color: lightcyan;
+	width: 50%;
+	height: 400px;
+	float: right;
+}
+#main-footer{
+	text-align: bottom;
+}
+
+ 
